@@ -19,4 +19,4 @@
 ## 个人博客
 林友松。一个逗比的开发者。  
 Email：lysongzi.hnu@gmail.com   
-博客地址：[lysongzi.com](lysongzi.com)
+博客地址：[lysongzi.com](http://lysongzi.com)
