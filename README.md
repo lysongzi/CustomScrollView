@@ -1,0 +1,2 @@
+# CustomScrollView
+使用官方UIScrollView组件进行定制横向滚动的视图，滚动带有缩放效果等。
